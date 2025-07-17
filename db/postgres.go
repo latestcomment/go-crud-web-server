@@ -42,5 +42,4 @@ func InitDB() {
 	}
 
 	log.Println("Connected to PostgreSQL.")
-
 }
